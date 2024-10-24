@@ -132,3 +132,5 @@ nano castle.sh
 cat castle.sh
 bash castle.sh
 nano castle.sh
+__vsc_prompt_cmd_original
+bash castle.sh
