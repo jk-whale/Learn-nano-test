@@ -126,3 +126,4 @@ ls --color=auto -al
 echo hello nano
 touch castle.sh
 ls --color=auto -al
+nano castle.sh
