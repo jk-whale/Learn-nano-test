@@ -125,3 +125,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto -al
 echo hello nano
 touch castle.sh
+ls --color=auto -al
