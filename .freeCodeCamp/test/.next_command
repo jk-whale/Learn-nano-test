@@ -128,3 +128,4 @@ touch castle.sh
 ls --color=auto -al
 nano castle.sh
 bash castle.sh
+nano castle.sh
