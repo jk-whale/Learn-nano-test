@@ -1,5 +1,5 @@
 echo "
-Welcome to my castle
+Welcome to my test castle
 "
 
 echo "
